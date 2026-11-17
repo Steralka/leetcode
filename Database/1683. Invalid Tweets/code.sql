@@ -3,4 +3,4 @@ SELECT
 FROM 
     Tweets
 WHERE 
-    LENGTH(content) > 15
+    LENGTH(content) > 15;

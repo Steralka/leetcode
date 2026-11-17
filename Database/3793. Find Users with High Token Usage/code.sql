@@ -11,4 +11,4 @@ HAVING
     AND MAX(p.tokens) > AVG(p.tokens)
 ORDER BY
     avg_tokens DESC,
-    p.user_id
+    p.user_id;
